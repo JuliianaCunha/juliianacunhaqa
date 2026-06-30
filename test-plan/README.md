@@ -1,16 +1,13 @@
-# Test Plan
+# Test Plans
 
-Esta pasta contém um exemplo de plano de testes elaborado para validar o fluxo de assinatura eletrônica de contratos.
+This folder contains sample test plans created for the electronic contract signature workflow.
 
-O objetivo é demonstrar como estruturo o planejamento das atividades de teste, incluindo:
+The documents demonstrate how testing activities are planned, including:
 
-- Escopo da funcionalidade
-- Objetivos dos testes
-- Critérios de entrada e saída
-- Estratégia de testes
-- Cenários principais
-- Riscos e premissas
-- Tipos de teste aplicados
-- Evidências esperadas
+- Scope
+- Test strategy
+- Entry and exit criteria
+- Risks
+- Deliverables
 
-> **Nota:** Todo o conteúdo foi adaptado e anonimizado para preservar informações confidenciais.
+> **Note:** All examples are fictional or anonymized to preserve confidential project information.
