@@ -1,5 +1,23 @@
-# Test Cases
+# 📚 Test Cases Suite
 
-Esta pasta contém exemplos de casos de teste utilizados para validar o fluxo de assinatura de contratos.
+This folder contains sample test cases created for the electronic contract signature workflow.
 
-> Todos os exemplos foram anonimizados para preservar informações confidenciais.
+---
+
+### 🎯 Key Objectives
+
+The purpose of these test cases is to demonstrate:
+
+* **Functional Testing:** Verification of core system behaviors.
+* **Scenarios:** Coverage of both positive and negative testing paths.
+* **Business Rules:** Strict validation of defined system logic.
+* **Coverage:** Comprehensive end-to-end workflow analysis.
+* **Best Practices:** Clean and structured test case documentation.
+
+---
+
+### 🚨 Confidentiality Notice
+
+> [!NOTE]
+> All examples are fictional or anonymized to preserve confidential project information.
+
